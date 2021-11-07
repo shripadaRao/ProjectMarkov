@@ -6,7 +6,7 @@
 
 
 Intro(What I'm actually doing):
-        Scrape Reddit(r/lifeprotips) for content. Collect data and process them for NLP. Use Markov Chains to generate content using the processed data. Build a website to publish/host the same.
+        Scrape Reddit(r/LifeProTips and r/UnethicalLifeProTips) for content. Collect data and process them for NLP. Use Markov Chains to generate content using the processed data. Build a website to publish/host the same.
 
 
 Use case:
@@ -20,8 +20,8 @@ What I'll Learn in the end of the project:
         >will add any
 
 Steps for Completion:
-1) Scrape Reddit(r/lifeprotips) for Content. --done
-2) Store the scrapped content into a csv file. --done
-3) Pre Process for NLP.
+1) Scrape Reddit(r/LifeProTips and r/UnethicalLifeProTips) for Content. --done
+2) Store the scrapped content into a csv file and create a merge file. --done
+3) Pre Process for NLP - Clean csv file and other.
 4) 
 
