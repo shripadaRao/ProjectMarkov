@@ -1,3 +1,5 @@
-/.vscode
+.vscode/
 .swp
-ignore.py
+ignore.py/
+.ipynb_checkpoints/
+file_test.csv
