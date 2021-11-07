@@ -20,8 +20,8 @@ What I'll Learn in the end of the project:
         >will add any
 
 Steps for Completion:
-1) Scrape Reddit(r/lifeprotips) for Content.
-2) Store the scrapped content into a csv file.
+1) Scrape Reddit(r/lifeprotips) for Content. --done
+2) Store the scrapped content into a csv file. --done
 3) Pre Process for NLP.
 4) 
 
